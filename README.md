@@ -1,6 +1,6 @@
 ### Hi 👋
 
-<p>Hi! I’m <strong>Venkat</strong>. I’m a PhD student in Linguistics at the University of Texas at Austin, specializing in Computational Linguistics.</p>
+<p>I’m <strong>Venkat</strong>. I’m a PhD student in Linguistics at the University of Texas at Austin, specializing in Computational Linguistics.</p>
 
 <p>I received my MS in Computational Linguistics from the University of Rochester, where I worked in the <a href="http://factslab.io">Formal and Computational Semantics Lab</a> under Assistant Professor <a href="http://aaronstevenwhite.io">Aaron Steven White</a>.</p>
 
