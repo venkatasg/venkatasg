@@ -6,4 +6,4 @@
 
 <p>I love cooking, running, biking, building <a href="https://venkatasg.me/apps/">apps</a> for Apple platforms, and <a href="https://letterboxd.com/venkatasg/">the movies</a>.</p>
 
-<p>I post research updates on <a href="https://twitter.com/_venkatasg">Twitter</a> and <a rel="me" href="https://sigmoid.social/@venkatasg">sigmoid.social</a>. You can also find me on <a rel="me" href="https://mastodon.social/@venkatasg">mastodon.social</a>, where I post about iOS & macOS app development.</p>
+<p>I post research updates on <a href="https://twitter.com/_venkatasg">Twitter</a> and <a rel="me" href="https://mastodon.social/@venkatasg">mastodon.social</a>, where I also post about iOS & macOS app development.</p>
