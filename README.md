@@ -1,9 +1,8 @@
 ### Hi 👋
 
-<p>I am currently studying interpersonal biases in natural and machine-generated text with Assistant Professor <a href="https://jessyli.com">Jessy Li</a> and Professor <a href="https://liberalarts.utexas.edu/linguistics/faculty/dib97">David Beaver</a>.</p>
+<p> I’m <strong>Venkat</strong> (<em>he/him/his</em>). I’m a PhD student in Computational Linguistics at The University of Texas at Austin. My research focuses on intergroup biases in online communication. I'm fortunate to be a member of <a href="https://www.nlp.utexas.edu">a rich group of researchers working on NLP at UT</a>.
 
-<p>I completed my Masters at the University of Rochester, where I worked in the <a href="http://factslab.io">Formal and Computational Semantics Lab</a> with Assistant Professor <a href="http://aaronstevenwhite.io">Aaron Steven White</a>. My research focused on the <a href="https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00285">wide breadth of generalizations available across predicates and arguments</a> in English.</p>
+<p>Outside of research, I love cooking,<s>running,</s> strength training, biking, building <a href="/apps">apps</a> for Apple platforms, and <a href="https://letterboxd.com/venkatasg/">the movies</a>.</p>
 
-<p>I love cooking,<s>running,</s> biking, building <a href="https://venkatasg.me/apps/">apps</a> for Apple platforms, and <a href="https://letterboxd.com/venkatasg/">the movies</a>.</p>
+<p>My full name is really long &mdash; unless you're citing me in a paper or official document, call me Venkat.</p>
 
-<p>I post research updates on <a href="https://twitter.com/_venkatasg">Twitter</a> and <a rel="me" href="https://mastodon.social/@venkatasg">mastodon.social</a>, where I also post about iOS & macOS app development.</p>
