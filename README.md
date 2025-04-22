@@ -1,6 +1,6 @@
 ### Hi 👋
 
-<p> I’m <strong>Venkat</strong> (<em>he/him/his</em>). I’m a PhD student in Computational Linguistics at The University of Texas at Austin. My research focuses on intergroup biases in online communication. I'm fortunate to be a member of <a href="https://www.nlp.utexas.edu">a rich group of researchers working on NLP at UT</a>.
+<p> I’m <strong>Venkat</strong> (<em>he/him/his</em>). I’m an Assistant Professor in Computer Science at Ithaca College. I'm a Computational Linguist interested in understanding various facets of <b>meaning</b> in human language and communication using modern Machine Learning and Natural Language Processing techniques and tools.</a>.
 
 <p>Outside of research, I love cooking,<s>running,</s> strength training, biking, building <a href="/apps">apps</a> for Apple platforms, and <a href="https://letterboxd.com/venkatasg/">the movies</a>.</p>
 
