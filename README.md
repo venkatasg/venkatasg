@@ -1,6 +1,6 @@
 ### Hi 👋
 
-<p> I’m <strong>Venkat</strong> (<em>he/him/his</em>). I’m an Assistant Professor in Computer Science at Ithaca College. I'm a Computational Linguist interested in understanding various facets of <b>meaning</b> in human language and communication using modern Machine Learning and Natural Language Processing techniques and tools.</a>.
+<p> I’m <strong>Venkat</strong> (<em>he/him/his</em>). I’m an Assistant Professor in Computer Science at Ithaca College. I'm a Computational Linguist interested in understanding various facets of <b>meaning</b> in human language and communication using modern Machine Learning and Natural Language Processing.</a>.
 
 <p>Outside of research, I love cooking,<s>running,</s> strength training, biking, building <a href="/apps">apps</a> for Apple platforms, and <a href="https://letterboxd.com/venkatasg/">the movies</a>.</p>
 
